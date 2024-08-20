@@ -1,0 +1,123 @@
+.corAzul{
+    background-color: rgb(68, 108, 196);
+}
+.corVerde{
+    background-color: green;
+}
+.corBlueviolet{
+    background-color: blueviolet;
+}
+.corVermelho{
+    background-color: crimson;
+}
+.corAmarelo{
+    background-color: yellow;
+}
+.corRosa{
+    background-color: pink;
+}
+.corAzulclaro{
+    background-color: aqua;
+}
+.corLaranja{
+    background-color: orange;
+}
+.corVerdeClaro{
+    background-color: rgb(84, 216, 32);
+}
+.corAzulD{
+    background-color: darkslateblue;
+}
+.quadrado{
+    height: 80px;
+    width: 80px;
+    display: block;
+    border-radius: 10%;
+    position: relative;
+    margin: 5px;
+    float: left;
+}
+.quadrado:hover{
+    background-color:rgb(168, 0, 0)
+}
+.direita{
+    margin-left: 60px;
+    position: relative;
+}
+.direita2{
+margin-left: 50px;
+position: relative;
+}
+.direita3{
+    margin-left: 55px;
+position: relative;
+}
+.center{
+    text-align: center;
+    position: relative;
+}
+.tamanho{
+    font-size: 8px;
+    position: relative;
+}
+.tamanho2{
+    font-size: 35px;
+    position: relative;
+}
+.tamanho3{
+    font-size: 7px;
+    position: relative;
+}
+.descer{
+    margin-top: 40px;
+}
+.tel{
+    bottom: 10px;
+    position: relative;
+}
+.tel2{
+    bottom: 25px;
+    position: relative;
+}
+.tel3{
+    position: relative;
+    bottom: 35px;
+}
+#tabela{
+    width: 1700px;
+    height: 700px;
+
+}
+.coluna1{
+    height: 627px;
+    width: 90px;
+    display: block;
+    float: left;
+    position:relative
+}
+.coluna2{
+    height: 537px;
+    width: 90px;
+    float: left;
+    display: block;
+    position: relative;
+    margin-top: 90px;
+}
+.coluna3{
+    height: 360px;
+    width: 900px;
+    float: left;
+    display: block;
+    position: relative;
+    margin-top: 270px;
+}
+.retangulo{
+    width: 1350px;
+    height: 190px;
+    margin-left: 270px;
+}
+.corVerded{
+    background-color: rgb(57, 184, 125);
+}
+
+
